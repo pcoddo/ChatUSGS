@@ -4,13 +4,11 @@
 # **ChatUSGS**
 </p>
 <p align="left">
-    <em>Simple chat interface to access data using USGS Graph Image API and OpenAI GPT-3.5</em>
+    <em>Web application interface for USGS water data access using OpenAI GPT-3.5</em>
 </p>
 
 <!-- Badges -->
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/pcoddo/ChatUSGS?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pcoddo/ChatUSGS)
-![GitHub](https://img.shields.io/github/license/pcoddo/ChatUSGS)
 
 ---
 
