@@ -64,9 +64,7 @@ def submit_prompt(prompt):
     # Check that output is formatted correctly:
     # e.g. list containing [lat, long, observation, n_days]
     if len(output) != 4:
-        #raise ValueError("Response not formatted correctly. Try submitting new request")
         chat_response = "Response not formatted correctly. Try submitting a new request."
-        #yield chat_response
 
     else:
         try:
@@ -76,14 +74,10 @@ def submit_prompt(prompt):
             isinstance(int(output[3]), int)
         
         except ValueError:
-            #print("Response not formatted correctly. Try submitting new request.")
             chat_response = "Response not formatted correctly. Try submitting a new request."
-            #yield chat_response
 
         else:
             chat_response = "Let's get your data!"
-            #print(chat_response)
-            # pass 
 
     # Strip white space and make lowercase
     output = [s.strip() for s in output]
