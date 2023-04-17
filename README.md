@@ -57,12 +57,12 @@ cd path\to\ChatUSGS
 ```
 Run `app.py` script using command line or Python IDE:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ChatUSGS/main/img/run.png" width="400">
+  <img src="https://raw.githubusercontent.com/pcoddo/ChatUSGS/main/img/run.png" width="600">
 </p>
 
 Click local URL to open app in browser:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ChatUSGS/main/img/open.png" width="400">
+  <img src="https://raw.githubusercontent.com/pcoddo/ChatUSGS/main/img/open.png" width="600">
 </p>
 
 In chat window, enter your prompt. GPT-3.5 will attempt to parse requests for observation of interest (e.g. flooding, water quality, weather), location, and time period. Example prompts and outputs are as follows:
