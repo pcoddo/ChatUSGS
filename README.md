@@ -4,7 +4,7 @@
 # **ChatUSGS**
 </p>
 <p align="left">
-    <em>Simple chat interface to access data using USGS Graph Image API and OpenAI GPT-3.5</em>
+    <em>Web application interface for USGS water data access using OpenAI GPT-3.5</em>
 </p>
 
 <!-- Badges -->
