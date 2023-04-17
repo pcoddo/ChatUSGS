@@ -8,9 +8,7 @@
 </p>
 
 <!-- Badges -->
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/pcoddo/ChatUSGS?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/pcoddo/ChatUSGS)
-![GitHub](https://img.shields.io/github/license/pcoddo/ChatUSGS)
 
 ---
 
